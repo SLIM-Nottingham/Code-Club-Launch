@@ -1,6 +1,6 @@
 # Code-Club-Launch
 
-These are a collection of PDF's from the code-club launch, that occured on 28th August 2018.
+These are a collection of PDF's from the code-club launch, that occured on 28th December 2018.
 
 The following topics were covered by the speakers noted.
 
